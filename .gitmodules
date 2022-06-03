@@ -1,0 +1,16 @@
+[submodule "study-Garza-Villarreal2019"]
+	path = study-Garza-Villarreal2019
+	url = https://github.com/OpenNeuroDatasets/ds001928.git
+	datalad-id = c1bea770-78b0-11e9-8eea-0242ac130016
+[submodule "study-Spisak2020_1"]
+	path = study-Spisak2020_1
+	url = https://github.com/OpenNeuroDatasets/ds002608.git
+	datalad-id = e83d4dbe-5eb7-11ea-88dc-bea1855513aa
+[submodule "study-Spisak2020_2"]
+	path = study-Spisak2020_2
+	url = https://github.com/OpenNeuroDatasets/ds002609.git
+	datalad-id = c91154d8-5ebd-11ea-b4fd-c6e78e61876f
+[submodule "study-Tetreault2016"]
+	path = study-Tetreault2016
+	url = https://github.com/OpenNeuroDatasets/ds000208.git
+	datalad-id = 47670aa6-887e-11e8-bbe3-0242ac12000e
