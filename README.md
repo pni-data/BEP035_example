@@ -6,7 +6,7 @@ Install dataset with DataLad:
 ```
 export WEBDAV_USERNAME=XXXX
 export WEBDAV_PASSWORD=XXXX-XXXX-XXXX-XXXX
-datalad install -s git@github.com:pni-data/hcp-connectivity.git
+datalad install -s git@github.com:pni-data/BEP035_example.git
 datalad siblings -d BEP035_example enable -s sciebo.sfb289
 datalad get <file>
 ```
